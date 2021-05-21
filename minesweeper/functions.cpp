@@ -185,9 +185,6 @@ void boxOpen(short SX, short SY)
 
 bool flagStatistic()
 {
-	/*if ((Table.SOpenOCount + Table.SMineCount) == (Table.SRow * Table.SCol))
-		return true;
-	return false;*/
 	return ((Table.SOpenOCount + Table.SMineCount) == (Table.SRow * Table.SCol));
 }
 
