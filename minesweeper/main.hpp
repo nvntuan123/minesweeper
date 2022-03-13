@@ -3,7 +3,7 @@
 #include <ctime>
 #include <Windows.h>
 
-#include "resource.h"
+#include "resource.hpp"
 
 #pragma comment(lib, "winmm.lib")
 #define AUDIO(FileName) (PlaySound(MAKEINTRESOURCE(FileName),GetModuleHandle(NULL),SND_RESOURCE | SND_ASYNC));

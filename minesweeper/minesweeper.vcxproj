@@ -144,10 +144,10 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Console.h" />
-    <ClInclude Include="functions.h" />
-    <ClInclude Include="main.h" />
-    <ClInclude Include="resource.h" />
+    <ClInclude Include="Console.hpp" />
+    <ClInclude Include="functions.hpp" />
+    <ClInclude Include="main.hpp" />
+    <ClInclude Include="resource.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="minesweeper.rc" />

@@ -1,6 +1,6 @@
-#include "main.h"
-#include "functions.h"
-#include "Console.h"
+#include "main.hpp"
+#include "functions.hpp"
+#include "Console.hpp"
 
 TableStruct Table;
 BoxStruct** Box;

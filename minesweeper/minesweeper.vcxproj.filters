@@ -26,16 +26,16 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Console.h">
+    <ClInclude Include="Console.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="functions.h">
+    <ClInclude Include="functions.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="main.h">
+    <ClInclude Include="main.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="resource.h">
+    <ClInclude Include="resource.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

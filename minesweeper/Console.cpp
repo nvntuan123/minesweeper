@@ -1,4 +1,4 @@
-﻿#include "Console.h"
+﻿#include "Console.hpp"
 
 HANDLE hConsoleOutput;
 HANDLE hConsoleInput;

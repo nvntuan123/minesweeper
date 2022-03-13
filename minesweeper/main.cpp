@@ -1,6 +1,6 @@
-#include "main.h"
-#include "Console.h"
-#include "functions.h"
+#include "main.hpp"
+#include "Console.hpp"
+#include "functions.hpp"
 
 // Trang, Vi tri dang chon, Tong muc.
 short SPages, SSelectLocation, STotalCatalog;
